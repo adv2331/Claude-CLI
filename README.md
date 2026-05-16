@@ -1,4 +1,5 @@
 # Claude CLI
+(ANTHROPIC PLEASE DON'T SUE ME 😭😭😭)
 
 A custom Claude CLI with file operation permissions and per-message token tracking.
 
